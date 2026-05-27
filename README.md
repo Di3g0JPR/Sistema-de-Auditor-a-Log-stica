@@ -1,4 +1,4 @@
-# Sistema-de-Auditor-a-Logistica
+# Sistema-de-Auditoria-Logistica
 
 ##  Descripción del Proyecto
 Herramienta backend de consola desarrollada en Java, diseñada para el procesamiento, auditoría y validación de métricas de productividad en centros de distribución. El sistema simula el monitoreo de diferentes sectores de un depósito (Secos, Refrigerados, Alta Rotación), analizando el volumen de pallets procesados por distintos operarios.
